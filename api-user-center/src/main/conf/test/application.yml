@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  thymeleaf:
+    #是否取消热加载
+    cache: false
+
+
+
